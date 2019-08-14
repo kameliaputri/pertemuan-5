@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Kamelia putri XI RPL 1</title>
+	<link rel="stylesheet" href="layout kamel.css">
+</head>
+<body>
+	<div class="judul"> <!-- tag <header> digunakan untuk meletakkan logo dan judul situs-->
+		<div class="header">			
+			<h1> LAYOUT</h1>
+			<p> welcome to my layout</p>
+	
+		</div>
+		<div class="menu"> <!-- Tag <nav> digunakan untuk menu utama yang dirasa penting -->
+			<ul class="link">
+				<li><a href="#">Home</a></li>
+				<li><a href="#">HTML</a></li>
+				<li><a href="#">CSS</a></li>
+				<li>
+					<a href="#">Apk coding</a>
+						<ul class="active">
+							<li>Sublime Teks3</li> 
+							<li>Notepad</li>
+							<li>Notepad++</li>
+							<li>Atom</li>
+							<li>html5</li>
+							<li>VS</li>
+							<li>VC</li>
+							<li>VB</li>
+							<li>HTMLPAD</li>
+							<li>DEVC++</li>
+							<li>ARDUINO IDE</li>
+						</ul>
+				</li>
+
+				<li>
+					<a href="#">Download</a>
+						<ul class="active">
+							<li>windows</li>
+							<li>Linux</li>
+						</ul>
+				</li>				
+			</ul>
+		</div>
+		<div class="badan">			
+			<div class="sidebar">sidebar</div>
+			<div class="content">content</div>
+		</div>
+
+		<div class="footer"> 	 <!-- tag <footer> digunakan untuk menampilkan beberapa informasi mengenai website-->
+			Footer
+			<p><a href="#">085220678912</a></p>
+		</div>
+	</div>
+</body>
+</html>
